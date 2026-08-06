@@ -38,10 +38,10 @@ Add your GitHub repository URL here.
 ## Screenshots
 
 Include:
-- S3 Bucket
-- Website Hosting Configuration
-- Bucket Policy
-- Website Output
+- S3 Bucket ![alt text](<s3 bucket.png>)
+- Website Hosting Configuration ![alt text](index.html.png)![alt text](script.js.png)
+- Bucket Policy ![alt text](<bucket policy.png>)
+- Website Output ![alt text](output.png)
 
 ## Learning Outcomes
 
