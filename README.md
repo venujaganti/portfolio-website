@@ -33,7 +33,7 @@ Add your website URL here.
 
 ## GitHub Repository
 
-Add your GitHub repository URL here.
+https://github.com/venujaganti/Portfolio-Website
 
 ## Screenshots
 
